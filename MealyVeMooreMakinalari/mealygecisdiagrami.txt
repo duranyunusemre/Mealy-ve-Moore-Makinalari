@@ -1,0 +1,14 @@
+ost	i/o	nst	i/o	nst	i/o	nst
+q0	a/0	q1	b/0	q3	c/0	q3
+q1	b/1	q2	a/1	q3	c/1	q10
+q2	a/0	q3	b/1	q3	c/0	q7
+q3	a/1	q3	b/1	q0	c/1	q12
+q4	a/1	q5	c/1	q0	b/1	q1
+q5	a/1	q3	c/1	q1	b/1	q8
+q6	a/1	q7	c/1	q0	b/0	q5
+q7	c/1	q11	b/1	q8	a/0	q4
+q8	c/1	q2	b/1	q12	a/0	q0
+q9	c/1	q10	b/1	q9	a/1	q11
+q10	a/1	q1	b/1	q0	c/1	q10
+q11	a/1	q5	c/1	q2	b/1	q9
+q12	a/1	q11	b/1	q8	c/0	q7
